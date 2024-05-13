@@ -1,6 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>server.config</file>
-        <file>cloud.db</file>
-    </qresource>
-</RCC>
